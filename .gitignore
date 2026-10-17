@@ -1,0 +1,10 @@
+# QuantumShield Z - Git Ignore File
+.quantumshield_data/
+*.key
+*.enc
+__pycache__/
+*.pyc
+venv/
+.venv/
+.env
+.DS_Store
